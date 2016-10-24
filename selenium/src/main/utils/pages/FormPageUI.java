@@ -17,7 +17,6 @@ public class FormPageUI extends TestRunner{
 	public final String FORM_SEARCH_BUTTON_TEXT = "Search";
 	public final String FORM_OPEN_BUTTON_TEXT = "Open";
 	public final String FORM_USER_NAME_INPUT_TEXT = "User name";
-	public final String FORM_EVENT_TYPE_INPUT_TEXT = "Event Type";
 
 	public final String FORM_EVENT_TYPE_VSM_ACCOUNT_EXTERNALLY_UPDATED = "VSM_ACCOUNT_EXTERNALLY_UPDATED";
 
